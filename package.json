@@ -1,0 +1,25 @@
+{
+  "name": "es6-unit-testing",
+  "version": "1.0.0",
+  "description": "```bash\r npm install",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "5.8.23"
+  },
+  "devDependencies": {
+    "mocha": "2.3.2"
+  },
+  "scripts": {
+    "test": "mocha --compilers js:babel/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhentian-wan/es6-unit-testing.git"
+  },
+  "author": "Zhentian <answer881215@gmail.com> (http://zhentian.herokuapp.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhentian-wan/es6-unit-testing/issues"
+  },
+  "homepage": "https://github.com/zhentian-wan/es6-unit-testing#readme"
+}
